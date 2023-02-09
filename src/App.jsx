@@ -1,4 +1,6 @@
-
+/*
+First tests on dev version
+*/
 import NuevoRegistro from './paginas/nuevoRegistro'
 import Login from './paginas/Login'
 import Generales from'./paginas/Generales'
